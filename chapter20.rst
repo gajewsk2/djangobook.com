@@ -54,7 +54,7 @@ SQL Injection
 *SQL injection* is a common exploit in which an attacker alters Web page
 parameters (such as ``GET``/``POST`` data or URLs) to insert arbitrary SQL
 snippets that a naive Web application executes in its database directly. It's
-probably the most dangerous -- and, unfortunately, one of the most common --
+probably the most dangerous -- and, unfortunately, one of the most common
 vulnerabilities out there.
 
 This vulnerability most commonly crops up when constructing SQL "by hand" from
